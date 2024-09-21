@@ -12,7 +12,7 @@ You can access the images hosted on GitHub Pages at the following link:
 
 ### Example Images
 Here are some example images you can use:
-1. ![Spider-Man No Way Home](https://codewithnitiksh.github.io/sample-data/images/spider-man-no-way-home-u7sd6vs76v.webp)
+ ![Spider-Man No Way Home](https://codewithnitiksh.github.io/sample-data/images/spider-man-no-way-home-u7sd6vs76v.webp)
    - **URL**: `https://codewithnitiksh.github.io/sample-data/images/spider-man-no-way-home-u7sd6vs76v.webp`
 
 ## Usage
