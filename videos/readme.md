@@ -13,7 +13,7 @@ You can access the videos hosted on GitHub Pages at the following link:
 ### Example Videos
 Here are some example videos you can use:
 **Sample Video 1**: 
-- URL: [3195394-sd_640_360_25fps.mp4](https://codewithnitiksh.github.io/sample-data/videos/3195394-sd_640_360_25fps.mp4)
+- URL: [3195394-sd_640_360_25fps.mp4](https://codewithnitiksh.github.io/sample-data/videos/3195394-sd_640_360_25fps.mp4) `https://codewithnitiksh.github.io/sample-data/videos/3195394-sd_640_360_25fps.mp4`
 <video width="640" height="360" controls>
   <source src="https://codewithnitiksh.github.io/sample-data/videos/3195394-sd_640_360_25fps.mp4" type="video/mp4">
   Your browser does not support the video tag.
