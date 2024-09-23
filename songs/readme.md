@@ -7,11 +7,11 @@ You can access the images hosted on GitHub Pages at the following link:
 
 ### Example Images
 Here are some example images you can use:
- ![Spider-Man No Way Home](https://codewithnitiksh.github.io/sample-data/images/spider-man-no-way-home-u7sd6vs76v.webp)
-   - **URL**: `https://codewithnitiksh.github.io/sample-data/images/spider-man-no-way-home-u7sd6vs76v.webp`
+ ![Warriyo_Mortals_(feat_Laura_Brehm)_[NCS Release].mp3](https://codewithnitiksh.github.io/sample-data/songs/Warriyo_Mortals_(feat_Laura_Brehm)_[NCS Release].mp3)
+   - **URL**: `https://codewithnitiksh.github.io/sample-data/songs/Warriyo_Mortals_(feat_Laura_Brehm)_[NCS Release].mp3`
 
 ## Usage
-Feel free to use these images in your projects. They are meant for public use, so you can incorporate them into your applications, websites, or any other creative work.
+Feel free to use these songs in your projects by NCS. You can incorporate them into your applications, websites, or any other creative work for testing not in deployment.
 
 ## License
 The images in this repository are intended for public use. However, please ensure to check any specific licensing terms if applicable. Songs by NCS , visit ncs.io for more.
