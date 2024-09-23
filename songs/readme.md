@@ -7,8 +7,8 @@ You can access the images hosted on GitHub Pages at the following link:
 
 ### Example Images
 Here are some example images you can use:
- ![Warriyo_Mortals_(feat_Laura_Brehm)_[NCS Release].mp3](https://codewithnitiksh.github.io/sample-data/songs/Warriyo_Mortals_(feat_Laura_Brehm)_[NCS Release].mp3)
-   - **URL**: `https://codewithnitiksh.github.io/sample-data/songs/Warriyo_Mortals_(feat_Laura_Brehm)_[NCS Release].mp3`
+ ![Spektrem_Shine_[NCS_Release].mp3](https://codewithnitiksh.github.io/sample-data/songs/Spektrem_Shine_[NCS_Release].mp3)
+   - **URL**: `https://codewithnitiksh.github.io/sample-data/songs/Spektrem_Shine_[NCS_Release].mp3`
 
 ## Usage
 Feel free to use these songs in your projects by NCS. You can incorporate them into your applications, websites, or any other creative work for testing not in deployment.
