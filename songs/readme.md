@@ -16,6 +16,3 @@ Here is an example song you can use:
 ```
 ## Usage
 Feel free to use these songs in your projects by NCS. You can incorporate them into your applications, websites, or any other creative work for testing not in deployment.
-
-## License
-The images in this repository are intended for public use. However, please ensure to check any specific licensing terms if applicable. Songs by NCS , visit ncs.io for more.
