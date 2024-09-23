@@ -1,10 +1,6 @@
 # Sample Songs Repository
 Welcome to the Sample Songs Repository! This folder contains a collection of NCS Songs. These Songs can be utilized for various projects, including web development, design, and educational purposes.
 
-## Accessing Songs
-You can access the images hosted on GitHub Pages at the following link:
-[Sample Images](https://codewithnitiksh.github.io/sample-data/songs/)
-
 ### Example Song
 Here is an example song you can use:
 - **Spektrem - Shine [NCS Release]**: - **URL**: `https://codewithnitiksh.github.io/sample-data/songs/Spektrem_Shine_[NCS_Release].mp3`
